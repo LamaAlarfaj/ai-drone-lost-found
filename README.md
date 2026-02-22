@@ -1,6 +1,8 @@
 # 🚁 AI Lost & Found Drone System
 
 A **Computer Vision system** that detects unattended devices (e.g., laptop, cell phone) using **YOLOv8**, and sends an **email alert with a screenshot**.
+## 📸 Email Alert Example
+![Email Alert Screenshot](https://github.com/user-attachments/assets/6aee158e-b218-4051-b6b7-44fbda8b8f01)
 
 The system supports two modes:
 
