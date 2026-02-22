@@ -38,8 +38,6 @@ pip install ultralytics opencv-python djitellopy
 
 ## 🔐 Environment Variables
 
-⚠️ Do NOT hardcode your credentials.
-
 Set your Gmail credentials using environment variables.
 
 ### 🪟 Windows (PowerShell)
