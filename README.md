@@ -2,14 +2,12 @@
 
 A **Computer Vision system** that detects unattended devices (e.g., laptop, cell phone) using **YOLOv8**, and sends an **email alert with a screenshot**.
 ## 📸 Email Alert Example
-![Email Alert Screenshot](https://github.com/user-attachments/assets/6aee158e-b218-4051-b6b7-44fbda8b8f01)
 
-## 📸 Email Alert Example
+<img src="https://github.com/user-attachments/assets/6aee158e-b218-4051-b6b7-44fbda8b8f01" width="200">
 
-<p align="center">
-  <img src="[images/email_example.png](https://github.com/user-attachments/assets/6aee158e-b218-4051-b6b7-44fbda8b8f01)" width="400">
-</p>
-The system supports two modes:
+
+
+## The system supports two modes:
 
 - 🚁 **Drone-based monitoring (Tello)**
 - 💻 **Laptop camera monitoring**
