@@ -3,7 +3,7 @@
 A **Computer Vision system** that detects unattended devices (e.g., laptop, cell phone) using **YOLOv8**, and sends an **email alert with a screenshot**.
 ## 📸 Email Alert Example
 
-<img src="https://github.com/user-attachments/assets/6aee158e-b218-4051-b6b7-44fbda8b8f01" width="200">
+<img src="https://github.com/user-attachments/assets/7157fbd8-84c4-4243-91da-5d0909460f8e" width="200">
 
 
 
